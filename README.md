@@ -1,3 +1,3 @@
-# mimir-rs
+# template-rs
 
-A tool for visualizing process information in MacOS
+A template for rust projects
